@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_0000000000000096.html"],['37',"Mediatek86.metier Namespace","topic_000000000000001F.html"],['95',"Livre Class","topic_0000000000000051.html"],['97',"Properties","topic_0000000000000051_props--.html"],['98',"Auteur Property","topic_0000000000000054.html"]];
