@@ -1,0 +1,1 @@
+search_result['30']=["topic_0000000000000014.html","Controle.CreerExemplaire Method","Crée un exemplaire d\u0027une revue dans la bdd"];
