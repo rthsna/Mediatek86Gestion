@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediatek86", "Mediatek86.csproj", "{810296AE-B290-4E67-A945-19806086CAFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediatek86Tests1", "..\Mediatek86Tests1\Mediatek86Tests1.csproj", "{ED037B2C-281E-4DE5-9C18-76383F48A131}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "..\Setup1\Setup1.vdproj", "{E5F22956-4402-4FE3-BE63-B0B5E873D519}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{810296AE-B290-4E67-A945-19806086CAFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{810296AE-B290-4E67-A945-19806086CAFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{810296AE-B290-4E67-A945-19806086CAFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{810296AE-B290-4E67-A945-19806086CAFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED037B2C-281E-4DE5-9C18-76383F48A131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED037B2C-281E-4DE5-9C18-76383F48A131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED037B2C-281E-4DE5-9C18-76383F48A131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED037B2C-281E-4DE5-9C18-76383F48A131}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5F22956-4402-4FE3-BE63-B0B5E873D519}.Debug|Any CPU.ActiveCfg = Debug
+		{E5F22956-4402-4FE3-BE63-B0B5E873D519}.Debug|Any CPU.Build.0 = Debug
+		{E5F22956-4402-4FE3-BE63-B0B5E873D519}.Release|Any CPU.ActiveCfg = Release
+		{E5F22956-4402-4FE3-BE63-B0B5E873D519}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA23C04D-1211-475E-BCC4-92DE89B07D58}
+	EndGlobalSection
+EndGlobal
