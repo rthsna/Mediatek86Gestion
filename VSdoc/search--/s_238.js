@@ -1,0 +1,1 @@
+search_result['238']=["topic_000000000000008A.html","FrmMediatek.isDeleteRevuePossible Method","Fonction qui determine is la date d\u0027un exemplaire d\u0027une revue est comprise dans la date de l\u0027abonnement\r\nRenvoie true si vrai"];
