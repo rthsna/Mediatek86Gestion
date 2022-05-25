@@ -1,0 +1,1 @@
+search_result['192']=["topic_000000000000006B.html","Dao.getLstExpiration Method","Retourne tous les ids des abonnements qui arrive à expiration selon le trigger present dans la BDD"];

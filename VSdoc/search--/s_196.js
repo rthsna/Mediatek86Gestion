@@ -1,0 +1,1 @@
+search_result['196']=["topic_000000000000006F.html","Dao.GetAllRevues Method","Retourne toutes les revues à partir de la BDD"];
